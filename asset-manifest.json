@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/DeveloperFolio/static/css/main.4ed85113.css",
+    "main.js": "/DeveloperFolio/static/js/main.2463d681.js",
+    "static/css/769.b3cbb36b.chunk.css": "/DeveloperFolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.300d8985.chunk.js": "/DeveloperFolio/static/js/769.300d8985.chunk.js",
+    "static/css/64.bba8fa55.chunk.css": "/DeveloperFolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/DeveloperFolio/static/js/64.56dc6704.chunk.js",
+    "static/media/mit.png": "/DeveloperFolio/static/media/mit.b426b7311bc5c0fa675a.png",
+    "static/media/Montserrat-Regular.ttf": "/DeveloperFolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/pgf.png": "/DeveloperFolio/static/media/pgf.fca94eb8aff7e4b45a03.png",
+    "static/media/resume.pdf": "/DeveloperFolio/static/media/resume.75d17fdfdf9c8a8c8cdc.pdf",
+    "static/media/Agustina.woff": "/DeveloperFolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/mgm.png": "/DeveloperFolio/static/media/mgm.62dd055b1ee03ec7fb7b.png",
+    "static/media/politix.jpg": "/DeveloperFolio/static/media/politix.a25ee9c115f0405eae6b.jpg",
+    "static/media/manOnTable.svg": "/DeveloperFolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/DeveloperFolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/DeveloperFolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/googleAssistantLogo.webp": "/DeveloperFolio/static/media/googleAssistantLogo.f720c71652579588524a.webp",
+    "static/media/codeInLogo.webp": "/DeveloperFolio/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
+    "static/media/skill.svg": "/DeveloperFolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/pwaLogo.webp": "/DeveloperFolio/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
+    "static/media/saayaHealthLogo.webp": "/DeveloperFolio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/DeveloperFolio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/DeveloperFolio/index.html",
+    "main.4ed85113.css.map": "/DeveloperFolio/static/css/main.4ed85113.css.map",
+    "main.2463d681.js.map": "/DeveloperFolio/static/js/main.2463d681.js.map",
+    "769.b3cbb36b.chunk.css.map": "/DeveloperFolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.300d8985.chunk.js.map": "/DeveloperFolio/static/js/769.300d8985.chunk.js.map",
+    "64.bba8fa55.chunk.css.map": "/DeveloperFolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/DeveloperFolio/static/js/64.56dc6704.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed85113.css",
+    "static/js/main.2463d681.js"
+  ]
+}
